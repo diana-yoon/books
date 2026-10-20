@@ -34,3 +34,6 @@ AI 오피스의 직원 David의 05시 정기 보고에 "텔레그램 이미지 �
 
 `TG_API_ID`, `TG_API_HASH`, `TG_SESSION`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`,
 `GOOGLE_REFRESH_TOKEN`, `DRIVE_ROOT_FOLDER_ID`
+
+`DRIVE_ROOT_FOLDER_ID` 값: `1IUDc7fKYbG1qGJo3RTO9vC-rdpjXgFyJ`
+(드라이브 `08_AI Office/telegram_images`, https://drive.google.com/drive/folders/1IUDc7fKYbG1qGJo3RTO9vC-rdpjXgFyJ)
